@@ -43,4 +43,17 @@ ul {
   justify-content: space-between;
   align-items: center;
   padding: 20px;
+  margin-bottom: 120px;
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 8px;
+}
+
+button {
+  padding: 10px;
 }
